@@ -26,3 +26,6 @@ unittest_prediction_fast_force_split.nii.gz
 *.pem
 *.log
 *.ipynb
+
+# Local PMPD body-mask weights, reports and QC
+.pmpd_body_runtime/
